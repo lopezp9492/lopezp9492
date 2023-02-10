@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pedro
 - 👀 I’m interested in hiking.
 - 🌱 I’m currently learning git
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I’m looking to collaborate with an awesome team
 - 📫 How to reach me: pedro.lopez.rmr@gmail.com
